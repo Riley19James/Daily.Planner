@@ -5,6 +5,7 @@
 
 DaySync is a simple web application that allows you to plan and organize your daily schedule. It provides time-blocks from 9AM to 5PM, where you can enter your tasks and save them for later reference.
 
+
 ## Features
 
 - Time-blocks for each hour from 9AM to 5PM
@@ -21,7 +22,7 @@ DaySync is a simple web application that allows you to plan and organize your da
 
 ## Usage
 
-1. Open `index.html` in a web browser.
+1. Open `index.html` or click the following link https://riley19james.github.io/Daily.Planner/ in a web browser.
 2. The current date will be displayed at the top of the page.
 3. Enter your tasks or appointments for each hour in the respective textareas.
 4. Click the "Save" button to save your tasks.
