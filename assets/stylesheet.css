@@ -1,0 +1,116 @@
+body {
+  background: linear-gradient(45deg, #f7b1d5, #add8e6, #d3e5d3);
+  color: #2d2d2d;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 48px;
+  color: #ff8848;
+  margin-bottom: 20px;
+}
+
+.lead {
+  font-family: "Fira Sans", sans-serif;
+  font-style: oblique;
+  font-size: 24px;
+  color: #2d2d2d;
+  margin-bottom: 20px;
+}
+
+.time-block {
+  background-color: #f0c4c4;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.hour {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 24px;
+  color: #2d2d2d;
+  padding-right: 80px;
+}
+
+.description {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 16px;
+  color: #2d2d2d;
+  background-color: #dbece7;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.saveBtn {
+  background-color: #9ca8d9;
+  color: #2d2d2d;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.saveBtn:hover {
+  background-color: #7e90bf;
+  color: #2d2d2d;
+}
+
+.past {
+  background-color: #f9a7a7;
+  filter: grayscale(100%);
+}
+
+.present {
+  background-color: #a7b8f9;
+}
+
+.future {
+  background-color: #a3f4bb;
+}
+
+.container-fluid {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.fa-save {
+  font-size: 20px;
+}
+
+.title {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 36px;
+  color: #2d2d2d;
+  margin-bottom: 20px;
+}
+
+#currentDay {
+  display: inline-block;
+  font-size: 36px;
+  font-weight: bold;
+  color: #d6af4e;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.display-3 {
+  display: inline-block;
+  font-size: 77px;
+  font-weight: bold;
+  color: #ff8848;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
