@@ -1,10 +1,10 @@
 # DaySync
 
 ## Screenshot
+
 ![Daily Planner](./Assets/dailyplanner.PNG)
 
 DaySync is a simple web application that allows you to plan and organize your daily schedule. It provides time-blocks from 9AM to 5PM, where you can enter your tasks and save them for later reference.
-
 
 ## Features
 
@@ -42,3 +42,10 @@ DaySync is a simple web application that allows you to plan and organize your da
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Resources
+
+- https://getbootstrap.com/docs/5.1/getting-started/introduction/
+- https://openai.com/blog/chatgpt
+- https://fontawesome.com/
+- https://fonts.google.com/
